@@ -1,0 +1,14 @@
+{
+    "real_days": 0,
+    "real_hours": 0,
+    "real_mins": 30,
+    "real_seconds": 0,
+    "target_length_min": 0,
+    "target_length_sec": 30,
+    "target_fps": 30,
+    "camera_ip": "192.168.2.231",
+    "camera_port": 3400,
+    "camera_username": "henrypump",
+    "camera_password": "HPCamera1903",
+    "output_file": "test1.avi"
+}
